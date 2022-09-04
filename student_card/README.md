@@ -2,6 +2,8 @@
 
 A new Flutter application.
 
+In this application I had designed my student card.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
